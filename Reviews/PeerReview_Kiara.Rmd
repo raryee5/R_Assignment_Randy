@@ -1,0 +1,18 @@
+---
+title: "PeerReview_KK"
+author: "Kiara Kappelmann"
+date: "2024-03-17"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Your code ran well with no errors, good job!
+
+My only comment is that I cannot open "My_Visualization.pdf" and get an error that hte file is corrupted. However, I can view the .png of the plot, so it might be worth considering deleting the lines of code that make the PDF version of the plot.
+
+
